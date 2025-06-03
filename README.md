@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 
 - Fundamentos de redes e segurança
 - Estrutura de dados e algoritmos
-- Desenvolvimento full-stack com JavaScript
+- Desenvolvimento front com JavaScript
 
 ---
 
@@ -33,26 +33,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 
 ## ✨ Sobre mim
 
-
-
-    </a> 
-    <a href="https://github.com/devlucas745?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/devlucas745?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/devlucas745
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/devlucas745?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
