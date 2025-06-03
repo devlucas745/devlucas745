@@ -33,8 +33,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 
 ## ✨ Sobre mim
 
-<p align="left">
-  
+
+
     </a> 
     <a href="https://github.com/devlucas745?tab=repositories&sort=stargazers">
         <img 
@@ -43,7 +43,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
             src="https://custom-icon-badges.demolab.com/github/stars/devlucas745?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/devlucas745
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
