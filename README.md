@@ -1,3 +1,4 @@
+# 💻 Lucas Gomes Costa
 
 🎓 Estudante de Ciência da Computação | 👨‍💻 Desenvolvedor Júnior | 🚀 Apaixonado por tecnologia
 
@@ -20,7 +21,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 
 - Fundamentos de redes e segurança
 - Estrutura de dados e algoritmos
-- Desenvolvimento front com JavaScript
+- Desenvolvimento front and  com JavaScript
 
 ---
 
@@ -33,6 +34,18 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 
 ## ✨ Sobre mim
 
+<p align="left">
+  
+    </a> 
+    <a href="https://github.com/devlucas745?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/devlucas745?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+      
+
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -109,17 +122,4 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-
-
-## ✨ Sobre mim
-
-Sou curioso, gosto de resolver problemas e estou sempre em busca de novos desafios para crescer profissionalmente. Acredito que o aprendizado contínuo e a prática são essenciais para se tornar um bom desenvolvedor. Estou em busca de oportunidades para aplicar meus conhecimentos e contribuir com projetos reais.
-
-
-
+  
