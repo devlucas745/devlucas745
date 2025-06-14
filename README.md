@@ -28,7 +28,8 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor júnior com foco em aprender e evo
 ## 📫 Como me encontrar
 
 - 📧 Email: lucasluccas927@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/lucasgomeescosta](https://www.linkedin.com/in/luccasgomes/)
+- 💼 LinkedIn: [linkedin.com/in/https://www.linkedin.com/in/luccas-gomes-780552213/
+  
 
 ---
 
