@@ -1,6 +1,6 @@
 # 💻 Lucas Gomes Costa
 
-🎓 Estudante de Ciência da Computação | 👨‍💻 Desenvolvedor Júnior | 🚀 Apaixonado por tecnologia
+🎓 Estudante de Ciência da Computação | 👨‍💻 engenheiro de software jr
 
 Bem-vindo ao meu perfil! engenheiro de software jr com foco em aprender e evoluir constantemente na área de tecnologia. Atualmente estou no 8º semestre de Ciência da Computação na Universidade São Judas Tadeu (campus Mooca) e tenho interesse especial em desenvolvimento web, redes e segurança.
 
