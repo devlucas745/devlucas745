@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil! engenheiro de software jr com foco em aprender e evolui
 ## 📫 Como me encontrar
 
 - 📧 Email: lucasluccas927@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/https://www.linkedin.com/in/luccas-gomes-780552213/
+- 💼 LinkedIn: [linkedin.com/in/https:/https://www.linkedin.com/in/lucas-gomes-780552213/
   
 
 ---
