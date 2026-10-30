@@ -102,17 +102,8 @@ Universidade São Judas Tadeu
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
-/>
-<img
-    align="left"
-    alt="OpenAI"
-    title="OpenAI"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/openai/FFFFFF"
-/>
 
-<br clear="left"/>
+
 
 ### 🧠 LLMs, RAG e IA Generativa
 
@@ -147,18 +138,6 @@ Universidade São Judas Tadeu
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
-/>
-<img
-    align="left"
-    alt="Amazon Web Services"
-    title="AWS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.simpleicons.org/amazonaws/FF9900"
-/>
-
-<br clear="left"/>
 
 
-<br clear="left"/>
 
