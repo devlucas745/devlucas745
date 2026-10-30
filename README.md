@@ -43,6 +43,7 @@ Universidade São Judas Tadeu
 
 
 
+
 ---
 
 ### 🤖 Inteligência Artificial e Machine Learning
@@ -95,15 +96,8 @@ Universidade São Judas Tadeu
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
-<img
-    align="left"
-    alt="Jupyter"
-    title="Jupyter Notebook"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 
-
+<br clear="left"/>
 
 ### 🧠 LLMs, RAG e IA Generativa
 
@@ -132,6 +126,16 @@ Universidade São Judas Tadeu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 <img
+    align="left"
+    alt="Docker"
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+/>
+
+<br clear="left"/>
+
     align="left"
     alt="Docker"
     title="Docker"
