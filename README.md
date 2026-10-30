@@ -1,34 +1,45 @@
 # 💻 Lucas Gomes Costa
 
-🎓 Estudante de Ciência da Computação | 👨‍💻 engenheiro de software jr
+### Software Engineer | AI Engineering | Python | Backend
 
-Bem-vindo ao meu perfil! engenheiro de software jr com foco em aprender e evoluir constantemente na área de tecnologia. Atualmente estou no 8º semestre de Ciência da Computação na Universidade São Judas Tadeu (campus Mooca) e tenho interesse especial em desenvolvimento web, redes e segurança.
+Sou formado em Ciência da Computação, com foco em desenvolvimento de software, engenharia de backend e inteligência artificial.
+
+Tenho interesse em desenvolver soluções que combinam Python, APIs e modelos de inteligência artificial, explorando aplicações de LLMs, automação inteligente e aprendizado de máquina.
+
+Utilizo este espaço para compartilhar meus projetos, experimentos e conhecimentos em engenharia de software.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- 💻 **Linguagens**: JavaScript, Python (basico), Java, C
-- 🌐 **Front-End**: HTML5, CSS3, React (básico)
-- 🖥️ **Back-End**: Node.js (básico), Java (Spring em aprendizado)
-- 🗄️ **Banco de Dados**: MySQL, PostgreSQL
-- 🧰 **Ferramentas**: Git, GitHub, VS Code, Postman
-- 📡 **Conhecimentos em Redes**: sockets, TCP/IP, HTTP/HTTPS
+- **Linguagens:** Python, JavaScript, Java e C#
+- **Inteligência Artificial:** PyTorch, LLMs, IA generativa e RAG
+- **Backend:** FastAPI, Flask, Node.js e APIs REST
+- **Banco de Dados:** PostgreSQL e MySQL
+- **Ferramentas:** Git, GitHub, Docker e Linux
 
----
+## 🧠 Interesses Técnicos
 
-## 🌱 Atualmente aprendendo
+- Inteligência artificial e Machine Learning
+- Large Language Models (LLMs)
+- Agentes de inteligência artificial
+- Engenharia de backend
+- Arquitetura de software e sistemas distribuídos
+- Inteligência artificial aplicada à robótica e ao setor aeroespacial
 
-- Fundamentos de redes e segurança
-- Estrutura de dados e algoritmos
-- Desenvolvimento front and  com JavaScript
+## 🎓 Formação Acadêmica
 
----
+**Bacharelado em Ciência da Computação**  
+Universidade São Judas Tadeu
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 - 📧 Email: lucasluccas927@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/https:/https://www.linkedin.com/in/lucas-gomes-780552213/
+- 💼 LinkedIn: [Lucas Gomes Costa](https://www.linkedin.com/in/lucasgomes-engenheirodesoftware/)
+- 💻 GitHub: [@devlucas745](https://github.com/devlucas745)
+- 🌐 Portfólio: [Meu portfólio](https://devlucas745.github.io/engenheiro-de-software-jr/)
+
+---
   
 
 ---
