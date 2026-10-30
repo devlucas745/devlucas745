@@ -42,117 +42,123 @@ Universidade São Judas Tadeu
 ---
 
 
+
+---
+
 ### 🤖 Inteligência Artificial e Machine Learning
 
-<img 
-    align="left" 
+<img
+    align="left"
     alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-<img 
-    align="left" 
-    alt="PyTorch" 
+<img
+    align="left"
+    alt="PyTorch"
     title="PyTorch"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
 />
-<img 
-    align="left" 
-    alt="TensorFlow" 
+<img
+    align="left"
+    alt="TensorFlow"
     title="TensorFlow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 />
-<img 
-    align="left" 
-    alt="NumPy" 
+<img
+    align="left"
+    alt="NumPy"
     title="NumPy"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
-<img 
-    align="left" 
-    alt="Pandas" 
+<img
+    align="left"
+    alt="Pandas"
     title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
-<img 
-    align="left" 
-    alt="scikit-learn" 
+<img
+    align="left"
+    alt="Scikit-learn"
     title="Scikit-learn"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
 />
-<img 
-    align="left" 
-    alt="Jupyter" 
+<img
+    align="left"
+    alt="Jupyter"
     title="Jupyter Notebook"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
 />
-<img 
-    align="left" 
-    alt="OpenAI" 
-    title="OpenAI API"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" 
+<img
+    align="left"
+    alt="OpenAI"
+    title="OpenAI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/openai/FFFFFF"
 />
 
 <br clear="left"/>
 
 ### 🧠 LLMs, RAG e IA Generativa
 
-<img 
-    align="left" 
-    alt="Hugging Face" 
+<img
+    align="left"
+    alt="Hugging Face"
     title="Hugging Face"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/huggingface/huggingface-original.svg"
 />
-<img 
-    align="left" 
-    alt="FastAPI" 
+<img
+    align="left"
+    alt="FastAPI"
     title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
 />
-<img 
-    align="left" 
-    alt="PostgreSQL" 
+<img
+    align="left"
+    alt="PostgreSQL"
     title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
-<img 
-    align="left" 
-    alt="Docker" 
+<img
+    align="left"
+    alt="Docker"
     title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
 />
-<img 
-    align="left" 
-    alt="Amazon Web Services" 
+<img
+    align="left"
+    alt="Amazon Web Services"
     title="AWS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.simpleicons.org/amazonaws/FF9900"
 />
+
+<br clear="left"/>
+
 
 <br clear="left"/>
 
